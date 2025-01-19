@@ -20,14 +20,14 @@ main:
     image: ./assets/img/FermiQEC.png
     bibtex: ./assets/bib/Schuckert2024.bib
     
- - title: "Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields"
+ - title: Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields
     authors: <strong>Eleanor Crane</strong>, Kevin C. Smith, Teague Tomesh, Alec Eickbusch, John M. Martyn, Stefan Kuhn, Lena Funcke, Michael A. DeMarco, Isaac L. Chuang, Nathan Wiebe, Alexander Schuckert, Steven M. Girvin
     conference_short: arXiv
     conference: arXiv, 2024.
     pdf: https://arxiv.org/abs/2409.03747
     image: ./assets/img/lgt.png
 
-  - title: "Hybrid Oscillator-Qubit Quantum Processors: Instruction Set Architectures, Abstract Machine Models, and Applications"
+  - title: Hybrid Oscillator-Qubit Quantum Processors: Instruction Set Architectures, Abstract Machine Models, and Applications
     authors: Yuan Liu, Shraddha Singh, Kevin C. Smith, <strong>Eleanor Crane</strong>, John M. Martyn, Alec Eickbusch, Alexander Schuckert, Richard D. Li, Jasmine Sinanan-Singh, Micheline B. Soley, Takahiro Tsunoda, Isaac L. Chuang, Nathan Wiebe, Steven M. Girvin
     conference_short: arXiv
     conference: arXiv, 2024.
