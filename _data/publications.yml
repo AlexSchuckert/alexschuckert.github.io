@@ -19,11 +19,3 @@ main:
     arxiv: https://arxiv.org/abs/2411.08955
     image: ./assets/img/FermiQEC.png
     bibtex: ./assets/bib/Schuckert2024.bib
-    
-  - title: Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields
-    authors: Eleanor Crane, Kevin C. Smith, Teague Tomesh, Alec Eickbusch, John M. Martyn, Stefan Kuhn, Lena Funcke, Michael A. DeMarco, Isaac L. Chuang, Nathan Wiebe, Alexander Schuckert, Steven M. Girvin
-    conference_short: arXiv
-    conference: arXiv, 2024.
-    pdf: https://arxiv.org/pdf/2409.03747
-    arxiv: https://arxiv.org/abs/2409.03747
-    image: ./assets/img/lgt.png
