@@ -1,6 +1,6 @@
 main:
 
-  - title: Observation of a finite-energy phase transition in a one-dimensional quantum simulator
+  - title: "Observation of a finite-energy phase transition in a one-dimensional quantum simulator"
     authors: <strong>Alexander Schuckert</strong>, Or Katz, Lei Feng, Eleanor Crane, Arinjoy De, Mohammad Hafezi, Alexey V. Gorshkov, Christopher Monroe 
     conference_short: Nat. Phys.
     conference: Nature Physics, 2025.
@@ -11,7 +11,7 @@ main:
     press: https://www.newscientist.com/article/2464444-elusive-phase-change-finally-spotted-in-a-quantum-simulator/
     bibtex: ./assets/bib/Schuckert2025.bib
 
-  - title: Fermion-qubit fault-tolerant quantum computing
+  - title: "Fermion-qubit fault-tolerant quantum computing"
     authors: <strong>Alexander Schuckert</strong>, Eleanor Crane, Alexey V. Gorshkov, Mohammad Hafezi, Michael J. Gullans
     conference_short: arXiv
     conference: arXiv, 2024.
@@ -19,3 +19,17 @@ main:
     arxiv: https://arxiv.org/abs/2411.08955
     image: ./assets/img/FermiQEC.png
     bibtex: ./assets/bib/Schuckert2024.bib
+    
+  - title: "Hybrid Oscillator-Qubit Quantum Processors: Simulating Fermions, Bosons, and Gauge Fields"
+    authors: <strong>Eleanor Crane</strong>, Kevin C. Smith, Teague Tomesh, Alec Eickbusch, John M. Martyn, Stefan Kuhn, Lena Funcke, Michael A. DeMarco, Isaac L. Chuang, Nathan Wiebe, Alexander Schuckert, Steven M. Girvin
+    conference_short: arXiv
+    conference: arXiv, 2024.
+    pdf: https://arxiv.org/abs/2409.03747
+    image: ./assets/img/lgt.png
+
+  - title: "Hybrid Oscillator-Qubit Quantum Processors: Instruction Set Architectures, Abstract Machine Models, and Applications"
+    authors: Yuan Liu, Shraddha Singh, Kevin C. Smith, <strong>Eleanor Crane</strong>, John M. Martyn, Alec Eickbusch, Alexander Schuckert, Richard D. Li, Jasmine Sinanan-Singh, Micheline B. Soley, Takahiro Tsunoda, Isaac L. Chuang, Nathan Wiebe, Steven M. Girvin
+    conference_short: arXiv
+    conference: arXiv, 2024.
+    pdf: https://arxiv.org/abs/2407.10381
+    image: ./assets/img/isa.png
