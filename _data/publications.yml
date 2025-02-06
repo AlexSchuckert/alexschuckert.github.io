@@ -9,6 +9,7 @@ main:
     journal: https://www.nature.com/articles/s41567-024-02751-2
     arxiv: https://arxiv.org/abs/2310.19869
     press: https://www.newscientist.com/article/2464444-elusive-phase-change-finally-spotted-in-a-quantum-simulator/
+    press2: https://phys.org/news/2025-02-phase-transition-1d-chain-atoms.html
     bibtex: ./assets/bib/Schuckert2025.bib
 
   - title: "Fermion-qubit fault-tolerant quantum computing"
