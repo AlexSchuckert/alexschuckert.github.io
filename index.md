@@ -14,6 +14,7 @@ I am a scientist developing quantum computing methods for scientific discovery i
 
 ## News
 - **[Feb. 2025]** Another great popular-scientfic article about our 1D finite-energy phase transition work apparead on [phys.org](https://phys.org/news/2025-02-phase-transition-1d-chain-atoms.html).
+- **[Feb. 2025]** Combining digital circuits with analog time evolution, we observe thermal phases and transport in the 2D XY model in Google's 69 qubit processor - read about it in [Nature](https://www.nature.com/articles/s41586-024-08460-3).
 - **[Jan. 2025]** The [New Scientist](https://www.newscientist.com/article/2464444-elusive-phase-change-finally-spotted-in-a-quantum-simulator/) wrote a great summary of our 1D finite-energy phase transition [paper](https://www.nature.com/articles/s41567-024-02751-2) and its implications for future work. 
 - **[Jan. 2025]** Our paper on the first observation of a finite-energy phase transition in 1D has appeared in [Nature Physics](https://www.nature.com/articles/s41567-024-02751-2). A big thanks to Or Katz and Chris Monroe at Duke for the fun experiment-theory collaboration!
 - **[Nov. 2024]** In our [arXiv preprint](https://arxiv.org/abs/2411.08955) on fermion-qubit fault-tolerance, we show how to encode a fermionic logical operator into fermionic atoms, and how fault-tolerant logical gates can be applied. This could potentially lower the resource requirements for simulation of quantum chemistry and material science by orders of magnitude!

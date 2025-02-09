@@ -1,4 +1,12 @@
 main:
+  - title: "Thermalization and criticality on an analogue–digital quantum simulator"
+    authors: T. I. Andersen, N. Astrakhantsev, A. H. Karamlou, J. Berndtsson, J. Motruk, A. Szasz, J. A. Gross, <strong>A. Schuckert</strong>, T. Westerhout, Y. Zhang, ..., X. Mi
+    conference_short: Nature
+    conference: Nature, 2025.
+    doi: https://doi.org/10.1038/s41586-024-08460-3
+    pdf: https://www.nature.com/articles/s41586-024-08460-3.pdf
+    image: ./assets/img/Digiana.png
+    bibtex: ./assets/bib/Andersen2025.bib
 
   - title: "Observation of a finite-energy phase transition in a one-dimensional quantum simulator"
     authors: <strong>Alexander Schuckert</strong>, Or Katz, Lei Feng, Eleanor Crane, Arinjoy De, Mohammad Hafezi, Alexey V. Gorshkov, Christopher Monroe 
