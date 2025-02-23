@@ -43,10 +43,10 @@ main:
     pdf: https://arxiv.org/abs/2407.10381
     image: ./assets/img/isa.png
 
-- title: "Measuring the Loschmidt Amplitude for Finite-Energy Properties of the Fermi-Hubbard Model on an Ion-Trap Quantum Computer"
-  authors: Kevin Hemery, Khaldoon Ghanem, Eleanor Crane, Sara L. Campbell, Joan M. Dreiling, Caroline Figgatt, Cameron Foltz, John P. Gaebler, Jacob Johansen, Michael Mills, Steven A. Moses, Juan M. Pino, Anthony Ransford, Mary Rowe, Peter Siegfried, Russell P. Stutz, Henrik Dreyer, <strong> Alexander Schuckert</strong>, Ramil Nigmatullin
-  conference_short: PRX Quantum
-  conference: PRX Quantum, 2024.
-  doi: https://doi.org/10.1103/PRXQuantum.5.030323
-  pdf: https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.5.030323
-  arxiv: https://arxiv.org/abs/2309.10552
+  - title: "Measuring the Loschmidt Amplitude for Finite-Energy Properties of the Fermi-Hubbard Model on an Ion-Trap Quantum Computer"
+    authors: Kevin Hemery, Khaldoon Ghanem, Eleanor Crane, Sara L. Campbell, Joan M. Dreiling, Caroline Figgatt, Cameron Foltz, John P. Gaebler, Jacob Johansen, Michael Mills, Steven A. Moses, Juan M. Pino, Anthony Ransford, Mary Rowe, Peter Siegfried, Russell P. Stutz, Henrik Dreyer, <strong> Alexander Schuckert</strong>, Ramil Nigmatullin
+    conference_short: PRX Quantum
+    conference: PRX Quantum, 2024.
+    doi: https://doi.org/10.1103/PRXQuantum.5.030323
+    pdf: https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.5.030323
+    arxiv: https://arxiv.org/abs/2309.10552
