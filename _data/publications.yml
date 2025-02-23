@@ -1,15 +1,35 @@
 main:
+
+  - title: "The strongly driven Fermi polaron"
+    authors: Franklin J. Vivanco*, <strong>Alexander Schuckert</strong>*, Songtao Huang*, Grant L. Schumacher, Gabriel G. T. Assumpção, Yunpeng Ji, Jianyi Chen, Michael Knap, Nir Navon
+    conference_short: Nat. Phys.
+    conference: Nature Physics, 2025.
+    pdf: https://arxiv.org/pdf/2308.05746
+    arxiv: https://arxiv.org/abs/2308.05746
+    image: ./assets/img/Strongly_Driven_Fermi_Polaron.png
+    bibtex: ./assets/bib/Vivanco2023.bib
+
+  - title: "Emergence of Fermi's Golden Rule in the Probing of a Quantum Many-Body System"
+    authors: Jianyi Chen*, Songtao Huang*, Yunpeng Ji, Grant L. Schumacher, Alan Tsidilkovski, **Alexander Schuckert**, Gabriel G. T. Assumpção, Nir Navon
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2502.14867
+    arxiv: https://arxiv.org/abs/2502.14867
+    image: ./assets/img/FGR_Quantum_Many_Body.png
+    bibtex: ./assets/bib/Chen2025.bib
+
   - title: "Thermalization and criticality on an analogue–digital quantum simulator"
-    authors: T. I. Andersen, N. Astrakhantsev, A. H. Karamlou, J. Berndtsson, J. Motruk, A. Szasz, J. A. Gross, <strong>A. Schuckert</strong>, T. Westerhout, Y. Zhang, ..., X. Mi
+    authors: T. I. Andersen*, N. Astrakhantsev*, A. H. Karamlou*, J. Berndtsson, J. Motruk, A. Szasz, J. A. Gross, <strong>A. Schuckert</strong>, T. Westerhout, Y. Zhang, ..., X. Mi
     conference_short: Nature
     conference: Nature, 2025.
     doi: https://doi.org/10.1038/s41586-024-08460-3
+    journal: https://www.nature.com/articles/s41586-024-08460-3
     pdf: https://www.nature.com/articles/s41586-024-08460-3.pdf
     image: ./assets/img/Digiana.png
     bibtex: ./assets/bib/Andersen2025.bib
 
   - title: "Observation of a finite-energy phase transition in a one-dimensional quantum simulator"
-    authors: <strong>Alexander Schuckert</strong>, Or Katz, Lei Feng, Eleanor Crane, Arinjoy De, Mohammad Hafezi, Alexey V. Gorshkov, Christopher Monroe 
+    authors: <strong>Alexander Schuckert</strong>*, Or Katz*, Lei Feng, Eleanor Crane, Arinjoy De, Mohammad Hafezi, Alexey V. Gorshkov, Christopher Monroe 
     conference_short: Nat. Phys.
     conference: Nature Physics, 2025.
     pdf: https://rdcu.be/d6BgC
@@ -48,5 +68,6 @@ main:
     conference_short: PRX Quantum
     conference: PRX Quantum, 2024.
     doi: https://doi.org/10.1103/PRXQuantum.5.030323
+    journal: https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.030323
     pdf: https://journals.aps.org/prxquantum/pdf/10.1103/PRXQuantum.5.030323
     arxiv: https://arxiv.org/abs/2309.10552
