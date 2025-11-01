@@ -1,7 +1,7 @@
 # Basic Information 
 title: Alexander Schuckert
-position: Assistant Research Scientist
-affiliation: JQI & QuICS
+position: Senior Research Scientist
+affiliation: QuEra Computing
 email: schuckertalexander@gmail.com
 
 # Search Engine Optimization (SEO)
@@ -13,7 +13,7 @@ canonical: https://minimal-light-theme.yliu.me/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=l9EmNDYAAAAJ&hl=de&oi=ao
-cv_link: assets/files/CV_Schuckert.pdf
+#cv_link: assets/files/CV_Schuckert.pdf
 arxiv_link: http://arxiv.org/a/schuckert_a_1
 bluesky_link: https://bsky.app/profile/schuckert.org
 #github_link: https://github.com/
