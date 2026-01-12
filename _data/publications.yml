@@ -1,5 +1,89 @@
 main:
 
+  - title: "Observation of disorder-induced superfluidity"
+    authors:  Nicole Ticea*, Elias Portoles*, Eliott Rosenberg*, <strong>Alexander Schuckert</strong>*,..., Mohammad Hafezi, Pedram Roushan
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2512.21416
+    arxiv: https://arxiv.org/abs/2512.21416
+
+  - title: "Hybrid digital-analog protocols for simulating quantum multi-body interactions"
+    authors:  Or Katz*, <strong>Alexander Schuckert</strong>*, Tianyi Wang*, Eleanor Crane, Alexey V. Gorshkov, Marko Cetina
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2512.21385
+    arxiv: https://arxiv.org/abs/2512.21385
+
+  - title: "Probing emergent prethermal dynamics and resonant melting on a programmable quantum simulator"
+    authors: Siva Darbha, Alexey Khudorozhkov, Pedro L. S. Lopes, Fangli Liu, Ermal Rrapaj, Jan Balewski, Majd Hamdan, Pavel E. Dolgirev, <strong>Alexander Schuckert</strong>, Katherine Klymko, Sheng-Tao Wang, Mikhail D. Lukin, Daan Camps, Milan Kornjača
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2510.11706
+    arxiv: https://arxiv.org/abs/2510.11706
+
+  - title: "Low-depth fermion routing without ancillas"
+    authors: Nathan Constantinides, Jeffery Yu, Dhruv Devulapalli, Ali Fahimniya, Luke Schaeffer, Andrew M. Childs, Michael J. Gullans, <strong>Alexander Schuckert</strong>, Alexey V. Gorshkov
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2510.05099
+    arxiv: https://arxiv.org/abs/2510.05099
+
+  - title: "Roadblocks and Opportunities in Quantum Algorithms -- Insights from the National Quantum Initiative Joint Algorithms Workshop, May 20--22, 2024"
+    authors: Eliot Kapit, Peter Love, Jeffrey Larson, Andrew Sornborger, Eleanor Crane, <strong>Alexander Schuckert</strong>, Teague Tomesh, Frederic Chong, Sabre Kais
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2508.13973
+    arxiv: https://arxiv.org/abs/2508.13973
+
+  - title: "Fault tolerant Operations in Majorana-based Quantum Codes: Gates, Measurements and High Rate Constructions"
+    authors: Maryam Mudassar, <strong>Alexander Schuckert</strong>, Daniel Gottesman
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2508.09928
+    arxiv: https://arxiv.org/abs/2508.09928
+
+  - title: "Error mitigation of shot-to-shot fluctuations in analog quantum simulators"
+    authors: Thomas Steckmann, De Luo, Yu-Xin Wang, Sean R. Muleady, Alireza Seif, Christopher Monroe, Michael J. Gullans, Alexey V. Gorshkov, Or Katz, <strong>Alexander Schuckert</strong>
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2506.16509
+    arxiv: https://arxiv.org/abs/2506.16509
+
+  - title: "Symbolic Hamiltonian Compiler for Hybrid Qubit-Boson Processors"
+    authors: Ethan Decker, Erik Gustafson, Evan McKinney, Alex K. Jones, Lucas Goetz, Ang Li, <strong>Alexander Schuckert</strong>, Samuel Stein, Gushu Li, Eleanor Crane
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2506.00215
+    arxiv: https://arxiv.org/abs/2506.00215
+
+  - title: "Quantum simulation of bubble nucleation across a quantum phase transition"
+    authors: De Luo, Federica Maria Surace, Arinjoy De, Alessio Lerose, Elizabeth R. Bennewitz, Brayden Ware, <strong>Alexander Schuckert</strong>, Zohreh Davoudi, Alexey V. Gorshkov, Or Katz, Christopher Monroe
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2505.09607
+    arxiv: https://arxiv.org/abs/2505.09607
+
+  - title: "Multi-Target Rydberg Gates via Spatial Blockade Engineering"
+    authors: Samuel Stein, Chenxu Liu, Shuwen Kan, Eleanor Crane, Yufei Ding, Ying Mao, <strong>Alexander Schuckert</strong>, Ang Li
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2504.15282
+    arxiv: https://arxiv.org/abs/2504.15282
+
+  - title: "Kernpiler: Compiler Optimization for Quantum Hamiltonian Simulation with Partial Trotterization"
+    authors: Ethan Decker, Lucas Goetz, Evan McKinney, Erik Gustafson, Junyu Zhou, Yuhao Liu, Alex K. Jones, Ang Li, <strong>Alexander Schuckert</strong>, Samuel Stein, Eleanor Crane, Gushu Li
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2504.07214
+    arxiv: https://arxiv.org/abs/2504.07214
+
+  - title: "Constrained many-body phases in a $\mathbb{Z}_2$-Higgs lattice gauge theory"
+    authors: <strong>Alexander Schuckert</strong>, Stefan Kühn, Kevin C. Smith, Eleanor Crane, Steven M. Girvin
+    conference_short: arXiv
+    conference: arXiv, 2025.
+    pdf: https://arxiv.org/pdf/2503.03828
+    arxiv: https://arxiv.org/abs/2503.03828
+
   - title: "The strongly driven Fermi polaron"
     authors: Franklin J. Vivanco*, <strong>Alexander Schuckert</strong>*, Songtao Huang*, Grant L. Schumacher, Gabriel G. T. Assumpção, Yunpeng Ji, Jianyi Chen, Michael Knap, Nir Navon
     conference_short: Nat. Phys.
