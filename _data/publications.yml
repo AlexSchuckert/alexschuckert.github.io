@@ -6,6 +6,7 @@ main:
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2512.21416
     arxiv: https://arxiv.org/abs/2512.21416
+    image: ./assets/img/File_1.png
 
   - title: "Hybrid digital-analog protocols for simulating quantum multi-body interactions"
     authors:  Or Katz*, <strong>Alexander Schuckert</strong>*, Tianyi Wang*, Eleanor Crane, Alexey V. Gorshkov, Marko Cetina
@@ -13,6 +14,7 @@ main:
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2512.21385
     arxiv: https://arxiv.org/abs/2512.21385
+    image: ./assets/img/File_12.png
 
   - title: "Probing emergent prethermal dynamics and resonant melting on a programmable quantum simulator"
     authors: Siva Darbha, Alexey Khudorozhkov, Pedro L. S. Lopes, Fangli Liu, Ermal Rrapaj, Jan Balewski, Majd Hamdan, Pavel E. Dolgirev, <strong>Alexander Schuckert</strong>, Katherine Klymko, Sheng-Tao Wang, Mikhail D. Lukin, Daan Camps, Milan Kornjača
@@ -20,6 +22,7 @@ main:
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2510.11706
     arxiv: https://arxiv.org/abs/2510.11706
+    image: ./assets/img/File_11.png
 
   - title: "Low-depth fermion routing without ancillas"
     authors: Nathan Constantinides, Jeffery Yu, Dhruv Devulapalli, Ali Fahimniya, Luke Schaeffer, Andrew M. Childs, Michael J. Gullans, <strong>Alexander Schuckert</strong>, Alexey V. Gorshkov
@@ -41,6 +44,7 @@ main:
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2508.09928
     arxiv: https://arxiv.org/abs/2508.09928
+    image: ./assets/img/File_9.png
 
   - title: "Error mitigation of shot-to-shot fluctuations in analog quantum simulators"
     authors: Thomas Steckmann, De Luo, Yu-Xin Wang, Sean R. Muleady, Alireza Seif, Christopher Monroe, Michael J. Gullans, Alexey V. Gorshkov, Or Katz, <strong>Alexander Schuckert</strong>
@@ -48,6 +52,7 @@ main:
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2506.16509
     arxiv: https://arxiv.org/abs/2506.16509
+    image: ./assets/img/File_8.png
 
   - title: "Symbolic Hamiltonian Compiler for Hybrid Qubit-Boson Processors"
     authors: Ethan Decker, Erik Gustafson, Evan McKinney, Alex K. Jones, Lucas Goetz, Ang Li, <strong>Alexander Schuckert</strong>, Samuel Stein, Gushu Li, Eleanor Crane
@@ -55,6 +60,7 @@ main:
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2506.00215
     arxiv: https://arxiv.org/abs/2506.00215
+    image: ./assets/img/File_7.png
 
   - title: "Quantum simulation of bubble nucleation across a quantum phase transition"
     authors: De Luo, Federica Maria Surace, Arinjoy De, Alessio Lerose, Elizabeth R. Bennewitz, Brayden Ware, <strong>Alexander Schuckert</strong>, Zohreh Davoudi, Alexey V. Gorshkov, Or Katz, Christopher Monroe
@@ -62,6 +68,7 @@ main:
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2505.09607
     arxiv: https://arxiv.org/abs/2505.09607
+    image: ./assets/img/File_6.png
 
   - title: "Multi-Target Rydberg Gates via Spatial Blockade Engineering"
     authors: Samuel Stein, Chenxu Liu, Shuwen Kan, Eleanor Crane, Yufei Ding, Ying Mao, <strong>Alexander Schuckert</strong>, Ang Li
@@ -69,6 +76,7 @@ main:
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2504.15282
     arxiv: https://arxiv.org/abs/2504.15282
+    image: ./assets/img/File_5.png
 
   - title: "Kernpiler: Compiler Optimization for Quantum Hamiltonian Simulation with Partial Trotterization"
     authors: Ethan Decker, Lucas Goetz, Evan McKinney, Erik Gustafson, Junyu Zhou, Yuhao Liu, Alex K. Jones, Ang Li, <strong>Alexander Schuckert</strong>, Samuel Stein, Eleanor Crane, Gushu Li
@@ -76,6 +84,7 @@ main:
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2504.07214
     arxiv: https://arxiv.org/abs/2504.07214
+    image: ./assets/img/File_4.png
 
   - title: "Constrained many-body phases in a Z2-Higgs lattice gauge theory"
     authors: <strong>Alexander Schuckert</strong>, Stefan Kühn, Kevin C. Smith, Eleanor Crane, Steven M. Girvin
@@ -83,6 +92,7 @@ main:
     conference: arXiv, 2025.
     pdf: https://arxiv.org/pdf/2503.03828
     arxiv: https://arxiv.org/abs/2503.03828
+    image: ./assets/img/File_2.png
 
   - title: "The strongly driven Fermi polaron"
     authors: Franklin J. Vivanco*, <strong>Alexander Schuckert</strong>*, Songtao Huang*, Grant L. Schumacher, Gabriel G. T. Assumpção, Yunpeng Ji, Jianyi Chen, Michael Knap, Nir Navon
