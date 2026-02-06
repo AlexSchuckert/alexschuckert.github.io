@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am currently a Senior Quantum Scientist at [QuEra Computing](https://www.quera.com), developing quantum computing methods for scientific discovery in material science, quantum chemistry, and nuclear physics.
+I am a Chargé de Recherche (permanent faculty) at the École Normale Superieure in Paris and the CNRS, developing quantum computing methods for scientific discovery in material science, quantum chemistry, and nuclear physics.
 
-<!-- In 2026, I will start a permanent faculty position at École Normale Superieure in Paris as a Chargé de Recherche at the CNRS. -->
+<!-- In 2026, I will start a permanent faculty position . -->
 
-Before, I was a postdoc and later assistant research scientist at the [Joint Quantum Institute](https://jqi.umd.edu) and the [Joint Center for Quantum Information and Computer Science](https://www.quics.umd.edu) at the University of Maryland from 2021 to 2025, and concurrently worked part-time for [Quantinuum](https://www.quantinuum.com) from 2021 to 2023. I did my PhD in the [Condensed Matter Theory Group](https://www.ph.nat.tum.de/en/cmt/about-us/) at Technical University of Munich in Nov. 2021. I studied Physics at Heidelberg University and University College London from 2012 to 2017, specializing in quantum field theory. 
+Before that, I was a postdoc and later assistant research scientist at the [Joint Quantum Institute](https://jqi.umd.edu) and the [Joint Center for Quantum Information and Computer Science](https://www.quics.umd.edu) at the University of Maryland from 2021 to 2025, and concurrently worked part-time for [Quantinuum](https://www.quantinuum.com) from 2021 to 2023. I did my PhD in the [Condensed Matter Theory Group](https://www.ph.nat.tum.de/en/cmt/about-us/) at Technical University of Munich in Nov. 2021. I studied Physics at Heidelberg University and University College London from 2012 to 2017, specializing in quantum field theory. 
 
 ## Research: Quantum Simulation
 
