@@ -4,16 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Chargé de Recherche (permanent faculty) at the École Normale Superieure in Paris and the CNRS, developing quantum computing methods for scientific discovery in material science, quantum chemistry, and nuclear physics.
+I am an Associate Professor (CNRS Chargé de Recherche) at the École Normale Superieure in Paris, developing quantum computing methods for scientific discovery in material science, quantum chemistry, and nuclear physics.
 
 <!-- In 2026, I will start a permanent faculty position . -->
 
-Before that, I was a postdoc and later assistant research scientist at the [Joint Quantum Institute](https://jqi.umd.edu) and the [Joint Center for Quantum Information and Computer Science](https://www.quics.umd.edu) at the University of Maryland from 2021 to 2025, and concurrently worked part-time for [Quantinuum](https://www.quantinuum.com) from 2021 to 2023. I did my PhD in the [Condensed Matter Theory Group](https://www.ph.nat.tum.de/en/cmt/about-us/) at Technical University of Munich in Nov. 2021. I studied Physics at Heidelberg University and University College London from 2012 to 2017, specializing in quantum field theory. 
+Before that, I was a senior quantum scientist at QuEra from 2025 to 2026, a postdoc and later assistant research scientist at the [Joint Quantum Institute](https://jqi.umd.edu) and the [Joint Center for Quantum Information and Computer Science](https://www.quics.umd.edu) at the University of Maryland from 2021 to 2025, and concurrently worked part-time for [Quantinuum](https://www.quantinuum.com) from 2021 to 2023. I did my PhD in the [Condensed Matter Theory Group](https://www.ph.nat.tum.de/en/cmt/about-us/) at Technical University of Munich in Nov. 2021. I studied Physics at Heidelberg University and University College London from 2012 to 2017, specializing in quantum field theory. 
 
 ## Research: Quantum Simulation
 
 - **Quantum algorithms for scientific discovery** Can we find algorithms to answer open scientific and technological questions in material science, quantum chemistry and nuclear physics?
-- **Hardware-efficient digital quantum simulation using native particles:** Can we more efficiently simulate interacting systems consisting of the two fundamental particles in Nature - bosons and fermions - by using quantum computers built from bosons and fermions (in addition to qubits)?
+- **Native-particle quantum computing:** Can we more efficiently simulate interacting systems consisting of the two fundamental particles in Nature - bosons and fermions - by using quantum computers built from bosons and fermions (in addition to qubits)?
 - **Near-term fault-tolerant quantum computation:** Can we solve non-trivial problems with a small fault-tolerant quantum computer (1000-10000 physical qubits)? 
 
 
