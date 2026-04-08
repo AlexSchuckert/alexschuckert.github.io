@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Associate Professor (CNRS Chargé de Recherche) at the École Normale Superieure in Paris, developing quantum computing methods for scientific discovery in material science, quantum chemistry, and nuclear physics.
+I am an Associate Professor at the École Normale Superieure in Paris (CNRS Chargé de Recherche), developing quantum computing methods for scientific discovery in material science, quantum chemistry, and nuclear physics.
 
 <!-- In 2026, I will start a permanent faculty position . -->
 
