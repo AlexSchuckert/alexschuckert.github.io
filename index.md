@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Associate Professor at the École Normale Superieure in Paris (CNRS [Chargé de Recherche](https://carrieres.cnrs.fr/en/news/international-researchers-jointhecnrs) in the [QAT team](https://qat.inria.fr/people/), developing quantum computing methods for scientific discovery in material science, quantum chemistry, and nuclear physics. I am also an Editor at [Quantum Journal](https://quantum-journal.org/).
+I am an Associate Professor at the École Normale Superieure in Paris (CNRS [Chargé de Recherche](https://carrieres.cnrs.fr/en/news/international-researchers-jointhecnrs)) in the [QAT team](https://qat.inria.fr/people/), developing quantum computing methods for scientific discovery in material science, quantum chemistry, and nuclear physics. I am also an Editor at [Quantum Journal](https://quantum-journal.org/).
 
 <!-- In 2026, I will start a permanent faculty position . -->
 
