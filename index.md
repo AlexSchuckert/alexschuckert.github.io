@@ -8,7 +8,7 @@ I am an Associate Professor at the École Normale Superieure in Paris (CNRS [Cha
 
 <!-- In 2026, I will start a permanent faculty position . -->
 
-Before that, I was a senior quantum scientist at QuEra from 2025 to 2026, a postdoc and later assistant research scientist at the [Joint Quantum Institute](https://jqi.umd.edu) and the [Joint Center for Quantum Information and Computer Science](https://www.quics.umd.edu) at the University of Maryland from 2021 to 2025, and concurrently worked part-time for [Quantinuum](https://www.quantinuum.com) from 2021 to 2023. I did my PhD in the [Condensed Matter Theory Group](https://www.ph.nat.tum.de/en/cmt/about-us/) at Technical University of Munich in Nov. 2021. I studied Physics at Heidelberg University and University College London from 2012 to 2017, specializing in quantum field theory. 
+Before that, I was a senior quantum scientist at QuEra from 2025 to 2026, a postdoc and later assistant research scientist at the [Joint Quantum Institute](https://jqi.umd.edu) and the [Joint Center for Quantum Information and Computer Science](https://www.quics.umd.edu) at the University of Maryland from 2021 to 2025, and concurrently worked part-time for [Quantinuum](https://www.quantinuum.com) from 2021 to 2023. I did my PhD in the [Condensed Matter Theory Group](https://www.ph.nat.tum.de/en/cmt/about-us/) at Technical University of Munich and the Max-Planck-Institute for Quantum Optics from 2017 to 2021. I studied Physics at Heidelberg University and University College London from 2012 to 2017, specializing in quantum field theory. 
 
 ## Research: Quantum Simulation
 
